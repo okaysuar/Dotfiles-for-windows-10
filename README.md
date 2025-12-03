@@ -48,46 +48,52 @@ I just packaged them neatly so your setup can look premium without effort.
 ## ⭐ Enjoy your new precision-engineered pointing experience  
 If your mouse feels faster after installing these, that’s just confidence kicking in.
 
-# 🌌 Zen Browser Settings  
-Because browsing the internet with default settings is like showing up to a party wearing school shoes.
+# ✨ Custom Cursor Collection  
+A curated set of cursed, classy, and dangerously smooth cursors.  
+Because the default Windows cursor has been the same since dinosaurs used CRT monitors.
 
-This folder contains my Zen Browser configs, themes, and general wizardry.  
-Use them if you want your browser to look and feel like it actually belongs in 2025.
-
----
-
-## 🚀 Installation  
-Zen does not have a “one-click import” because that would be *too convenient*.  
-So here’s the ritual:
-
-1. Open Zen  
-2. In the address bar, type `about:support`  
-3. Press Enter like you mean it  
-4. Find the **Profile Folder** row  
-5. Click **Open Folder**  
-6. Replace the files inside with the ones from this repo (yes, overwrite them, you rebel)  
-7. Restart Zen so it doesn’t have a breakdown
-
-If Zen starts looking hotter than your GPA, you did it right.
+Level up your desktop aura. Become *that* person with the fancy pointer.  
+Yes, it's unnecessary. Yes, it’s worth it.
 
 ---
 
-## 📂 What’s Included  
-- `prefs.js` — All the settings that took me hours to tweak  
-- `chrome/` — The CSS magic responsible for the glow-up  
-- Anything else needed to make Zen stop looking like Firefox’s cousin who still uses Facebook
+## 🖱️ Installation  
+Windows makes this way too easy:
+
+1. Open the folder of the cursor you want  
+2. Find the file named **install.inf**  
+3. Right-click it  
+4. Smash **Install**
+
+Boom. Your cursor just evolved like a Pokémon.
 
 ---
 
-## 📝 Notes  
-- Don’t upload your **entire profile folder** unless you enjoy leaking weird browser caches  
-- If Zen crashes, that’s on Zen. Not me.  
-- If your Zen looks better after installing this, act surprised
+## 📁 What’s Inside  
+Each cursor folder includes:
+
+- All the pointer icons you’ll ever need  
+- The `.inf` file that installs everything for you  
+- Enough style to make your desktop blush
 
 ---
 
-## 🌟 Enjoy  
-Welcome to a browser experience so clean it might raise your standards in life.
+## 💡 Notes  
+- No software required  
+- No third-party tools  
+- Just right-click, install, flex  
+- Switch cursors anytime if your vibe changes at 3AM
+
+---
+
+## 🎨 Credits  
+If a cursor design isn’t mine, credit goes to the original creator.  
+I just packaged them neatly so your setup can look premium without effort.
+
+---
+
+## ⭐ Enjoy your new precision-engineered pointing experience  
+If your mouse feels faster after installing these, that’s just confidence kicking in.
 
 
 # 🪟 Windows Explorer Blur + Mica  
